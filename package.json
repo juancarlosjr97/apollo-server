@@ -38,7 +38,7 @@
     "npm": ">=8.5.0"
   },
   "devDependencies": {
-    "@apollo/client": "3.8.8",
+    "@apollo/client": "3.8.9",
     "@apollo/gateway": "2.6.2",
     "@apollo/subgraph": "2.6.2",
     "@apollo/utils.createhash": "2.0.1",
@@ -108,7 +108,7 @@
     ]
   },
   "volta": {
-    "node": "20.10.0",
+    "node": "20.11.0",
     "npm": "9.9.2"
   }
 }
